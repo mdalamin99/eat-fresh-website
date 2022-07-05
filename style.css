@@ -49,7 +49,7 @@ padding-left: 10%;}
 }
 .img-seting{
       width: 90%;
-      margin-bottom: 10;
+      margin-bottom: 100px;
       display: flex;
       padding-left:5%;
 }
@@ -61,4 +61,23 @@ padding-left: 10%;}
 .img-div img{
       width: 100%;
       padding-left: 2px;
+}
+.subscribers{
+      display: flex;
+      width: 90%;
+      margin-bottom: 100px;
+      box-shadow: 10px 10px 40px gray;
+      text-align: center;
+      padding: 10px;
+      margin-left: 4%;
+}
+.youtube{
+      width: 100%;
+}
+
+footer{
+      text-align: center;
+      background-image: linear-gradient(rgb(148, 91, 81),rgb(170, 170, 132),rgb(233, 220, 220));
+      padding: 20px;
+      height: 200px;
 }
